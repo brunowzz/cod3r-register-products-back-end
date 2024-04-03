@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": "2",
+      "name": "Notebook MacBook Pro",
+      "price": 12000.89
+    },
+    {
+      "id": "3",
+      "name": "Samsung S23 Ultra",
+      "price": 9889.9
+    },
+    {
+      "id": "4",
+      "name": "iPhone SE 3",
+      "price": 2500
+    },
+    {
+      "id": "5",
+      "name": "iPhone 11 64GB",
+      "price": 2890.99
+    }
+  ]
+}
